@@ -17,11 +17,11 @@ https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content
 
 # Projeto de Vestido de Noiva Hindu 💃🏽
 
-📌 Contexto e detalhes em Relatório:
-
-[Projeto de API rapida_ Entrega de vestido de casamento.docx](https://github.com/user-attachments/files/25810253/Projeto.de.API.rapida_.Entrega.de.vestido.de.casamento.docx)
+📌 Contexto e detalhes em Relatório:[Projeto de API rapida_ Entrega de vestido de casamento.docx](https://github.com/user-attachments/files/25810253/Projeto.de.API.rapida_.Entrega.de.vestido.de.casamento.docx)
 
 Apresentação para a cliente Latifa, com esboços do Vestido, da Duppata e os Acessórios, especificações de tecidos e joias.
+
+
 
 Feito em equipe, com divisões de tarefas, eu foi a desenvolvedora dos slides, organizando de maneira com ornamentos que combinavam com o tema.
 
