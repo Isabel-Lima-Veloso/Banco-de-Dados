@@ -11,3 +11,7 @@ Nessa dinâmica, a batata frita (🍟) ganhou.
 Eu tenho alergia a pelos, por isso o pet virtual.
 
 https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content=DAHBP-fUMyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Primeira Planilha!
+Aprendendo PROCV:
+[balancete_receita (1).xlsx](https://github.com/user-attachments/files/25808357/balancete_receita.1.xlsx)
