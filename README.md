@@ -25,6 +25,8 @@ Apresentação para a cliente Latifa, com esboços do Vestido, da Duppata e os A
 
 Feito em equipe, com divisões de tarefas, eu foi a desenvolvedora dos slides, organizando de maneira com ornamentos que combinavam com o tema.
 
+https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content=DAHCkH1Leh4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Primeira Planilha!📄
 📌 Durante a aula, trabalhamos no básico de interação com o Excel,
 
