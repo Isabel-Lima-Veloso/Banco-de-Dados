@@ -21,7 +21,7 @@ https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content
 
 Apresentação para a cliente Latifa, com esboços do Vestido, da Duppata e os Acessórios, especificações de tecidos e joias.
 
-
+<img width="1243" height="699" alt="Projeto 2- 06_03_2026 -Apresentação Fatec - Grupo 5 - Apresentação - Google Chrome 07_03_2026 01_07_31" src="https://github.com/user-attachments/assets/309ac660-1ff7-40ea-b223-d0edf374d4fc" />
 
 Feito em equipe, com divisões de tarefas, eu foi a desenvolvedora dos slides, organizando de maneira com ornamentos que combinavam com o tema.
 
