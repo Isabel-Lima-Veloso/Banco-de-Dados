@@ -39,5 +39,7 @@ https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/commit/fa6ad528
 
 https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20220449.png
 
+Depois de pesquisar nos especilizados de fornecedor, fizemos uma tabela em meses e um grafico.
 https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20224934.png
 
+https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/MeusFornecedores.xlsx
