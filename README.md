@@ -29,8 +29,10 @@ https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content
 
 # Primeira Planilha!📄
 📌 Durante a aula, trabalhamos no básico de interação com o Excel,
-conjunto aprendo os 31 passos
+Conjunto aprendENDO PROVC e os 31 passos de melhoria aos graficos
+
 [Todos os ensinamentos.xlsx](https://github.com/user-attachments/files/25956224/Todos.os.ensinamentos.xlsx)
 
 ## Tabela e Grafico Especializado
 https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/commit/fa6ad528f9d01d8f2d38e070d7c189a4d30aec32
+https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20220449.png
