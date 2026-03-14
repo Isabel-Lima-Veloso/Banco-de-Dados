@@ -29,9 +29,7 @@ https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content
 
 # Primeira Planilha!📄
 📌 Durante a aula, trabalhamos no básico de interação com o Excel,
-
-Aprendemos a desenvolver a ferramenta PROCV:
-[balancete_receita (1).xlsx](https://github.com/user-attachments/files/25808357/balancete_receita.1.xlsx)
-
 conjunto aprendo os 31 passos
 [Todos os ensinamentos.xlsx](https://github.com/user-attachments/files/25956224/Todos.os.ensinamentos.xlsx)
+
+
