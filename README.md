@@ -25,9 +25,9 @@ Contexto e detalhes da cliente e seu pedido, em Relatório :  [Projeto de API ra
 
 Apresentação para a cliente Latifa, com esboços do Vestido, da Duppata e os Acessórios, especificações de tecidos e joias.
 
-Compartilhamento dos slides, sobre esse desenvolvimento : <img width="1243" height="699" alt="Projeto 2- 06_03_2026 -Apresentação Fatec - Grupo 5 - Apresentação - Google Chrome 07_03_2026 01_07_31" src="https://github.com/user-attachments/assets/309ac660-1ff7-40ea-b223-d0edf374d4fc" />
+<img width="1243" height="699" alt="Projeto 2- 06_03_2026 -Apresentação Fatec - Grupo 5 - Apresentação - Google Chrome 07_03_2026 01_07_31" src="https://github.com/user-attachments/assets/309ac660-1ff7-40ea-b223-d0edf374d4fc" />
 
-https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content=DAHCkH1Leh4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content=DAHCkH1Leh4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Tabela e Grafico 📄
 Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos expandindo a práticidade dentro do Excel.
