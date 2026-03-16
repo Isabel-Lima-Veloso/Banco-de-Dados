@@ -25,7 +25,7 @@ Contexto e detalhes da cliente e seu pedido, em Relatório :  [Projeto de API ra
 
 Apresentação para a cliente Latifa, com esboços do Vestido, da Duppata e os Acessórios, especificações de tecidos e joias.
 
-<img width="1243" height="699" alt="Projeto 2- 06_03_2026 -Apresentação Fatec - Grupo 5 - Apresentação - Google Chrome 07_03_2026 01_07_31" src="https://github.com/user-attachments/assets/309ac660-1ff7-40ea-b223-d0edf374d4fc" />
+Compartilhamento dos slides, sobre esse desenvolvimento : <img width="1243" height="699" alt="Projeto 2- 06_03_2026 -Apresentação Fatec - Grupo 5 - Apresentação - Google Chrome 07_03_2026 01_07_31" src="https://github.com/user-attachments/assets/309ac660-1ff7-40ea-b223-d0edf374d4fc" />
 
 https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content=DAHCkH1Leh4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
@@ -33,13 +33,13 @@ https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content
 Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos expandindo a práticidade dentro do Excel.
 
 ## Excel e banco de dados
-📌 Durante a aula, trabalhamos na interação com o Excel, com dados base vindos da transparência de dados públicos no site de São José dos Campos, pesquisa direcionada a Receita da cidade.
+📌 Durante a aula, trabalhamos na interação com o Excel, com base de dados originários da transparência de dados públicos no site da Prefeitura de São José dos Campos, pesquisa direcionada a Receita da cidade.
 
 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados (https://www.youtube.com/watch?v=vk8hFhPEbqs)
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento :  [Todos os ensinamentos.xlsx](https://github.com/user-attachments/files/25956224/Todos.os.ensinamentos.xlsx)
 
-📌 Ainda ao pesquisar sobre dados publicos da cidade, fomos de forma focada em despesas de São José dos Campos.
+📌 Ainda na pesquisar sobre dados publicos da Prefeitura da cidade, com foco em despesas de São José dos Campos.
 Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre secretaria, e fizemos gráfico para visualização rápida de dados, assim praticando CONT.ME e SOMASE.
 
 <img width="1582" height="354" alt="Captura de tela 2026-03-13 220449" src="https://github.com/user-attachments/assets/b530d8d2-2592-4628-8832-1ae04c8923c5" />
@@ -47,5 +47,6 @@ Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre
 📊 Arquivo do próprio excel, sobre esse desenvolvimento :  [GraficoTabelaEspeciais.xlsx](https://github.com/user-attachments/files/26032355/GraficoTabelaEspeciais.xlsx)
 
 Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela envolvendo meses e dados de total pago, com um gráfico para rápido entendimento, treinada e finalizada em CONT.ME e SOMASE.
+
 📊 Arquivo do próprio excel, sobre esse desenvolvimento :  [MeusFornecedores.xlsx](https://github.com/user-attachments/files/26032319/MeusFornecedores.xlsx)
 
