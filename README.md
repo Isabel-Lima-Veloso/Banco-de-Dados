@@ -35,11 +35,13 @@ Conjunto aprendENDO PROVC e os 31 passos de melhoria aos graficos
 
 ## Tabela e Grafico Especializado
 Depois de pesquisar nos especializamos as tabelas em secretaria, e fizemos o grafico.
-https://github.com/srmLima/Fontes-de-informa-es-e-banco-de-dados/commit/fa6ad528f9d01d8f2d38e070d7c189a4d30aec32
 
-https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20220449.png
+<img width="1582" height="354" alt="Captura de tela 2026-03-13 220449" src="https://github.com/user-attachments/assets/b530d8d2-2592-4628-8832-1ae04c8923c5" />
+
+[GraficoTabelaEspeciais.xlsx](https://github.com/user-attachments/files/26032355/GraficoTabelaEspeciais.xlsx)
 
 Depois de pesquisar nos especilizados de fornecedor, fizemos uma tabela em meses e um grafico.
-https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Captura%20de%20tela%202026-03-13%20224934.png
+<img width="795" height="278" alt="Captura de tela 2026-03-13 224934" src="https://github.com/user-attachments/assets/9fa715f0-38d0-487e-823f-a02703ba2979" />
 
-https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/MeusFornecedores.xlsx
+[MeusFornecedores.xlsx](https://github.com/user-attachments/files/26032319/MeusFornecedores.xlsx)
+
