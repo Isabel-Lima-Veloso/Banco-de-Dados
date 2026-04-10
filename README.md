@@ -52,3 +52,5 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 🧾Certificado de compensação de feriados:
 [Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf](https://github.com/user-attachments/files/26632932/Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf)
+<img width="1357" height="914" alt="Certificado Criando_Certificado-Trabalhos_Academicos_com_Ferramentas" src="https://github.com/user-attachments/assets/dbbbf001-9395-4906-bedd-df363437e873" />
+
