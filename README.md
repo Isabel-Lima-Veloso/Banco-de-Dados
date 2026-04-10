@@ -56,4 +56,4 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 [Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf](https://github.com/user-attachments/files/26632932/Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf)
 
-<img width="100" height="87" alt="Certificado Criando_Certificado-Trabalhos_Academicos_com_Ferramentas" src="https://github.com/user-attachments/assets/dbbbf001-9395-4906-bedd-df363437e873" />
+<img width="487" height="287" alt="Certificado Criando_Certificado-Trabalhos_Academicos_com_Ferramentas" src="https://github.com/user-attachments/assets/dbbbf001-9395-4906-bedd-df363437e873" />
