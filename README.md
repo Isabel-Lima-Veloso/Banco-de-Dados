@@ -33,7 +33,7 @@ Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/
 # Tabela e Grafico 📄
 Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos expandindo a práticidade dentro do Excel.
 
-## Excel e banco de dados
+## Excel e Banco de Dados
 📌 Durante a aula, trabalhamos na interação com o Excel, com base de dados originários da transparência de dados públicos no site da Prefeitura de São José dos Campos, pesquisa direcionada a Receita da cidade.
 
 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados (https://www.youtube.com/watch?v=vk8hFhPEbqs)
