@@ -51,7 +51,9 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento :  [MeusFornecedores.xlsx](https://github.com/user-attachments/files/26032319/MeusFornecedores.xlsx)
 
+📌 Escolhemos em conjunto a base dos dados públicos de São Paulo focados em Educação, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, MÁXIMO e o CORRESP.
 
+📊 Arquivo do próprio excel, sobre esse desenvolvimento : COLOCAR 
 
 ## 🧾Certificado de compensação de feriados:
 
