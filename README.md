@@ -38,7 +38,7 @@ Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados,
 
 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados (https://www.youtube.com/watch?v=vk8hFhPEbqs)
 
-<img width="966" height="658" alt="Todos os ensinamentos xlsx - Google Chrome 16_04_2026 13_27_25" src="https://github.com/user-attachments/assets/ca3ce4f3-a597-4b7e-9219-d66b2d8fb05e" />
+<img width="566" height="658" alt="Todos os ensinamentos xlsx - Google Chrome 16_04_2026 13_27_25" src="https://github.com/user-attachments/assets/ca3ce4f3-a597-4b7e-9219-d66b2d8fb05e" />
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Todos.os.ensinamentos.xlsx](https://github.com/user-attachments/files/26792938/Todos.os.ensinamentos.xlsx)
 
