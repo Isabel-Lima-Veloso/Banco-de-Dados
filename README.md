@@ -8,6 +8,7 @@ Aqui evoluímos habilidades táticas de exibição de produtos e algumas vezes a
 
 ## Apresentação informal em equipe
 📅 13/02/2026
+
 📌 Primeira apresentação feita no curso de GPI, para identificação de personas na turma.
 
 Relatamos nos slides, nossos animais de estimação, nossos hobbies e de forma descontraída (com interação com a turna, de votação) qual nossos tipos preferidos de batatas.
@@ -22,6 +23,7 @@ Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/
 
 ## Projeto de Vestido de Noiva Hindu 💃🏽
 📅 03/06/2026
+
 📌 Feito em equipe, com divisões de tarefas, eu foi a desenvolvedora dos slides (organizando de maneira com ornamentos que combinavam com o tema) e colaborei na pesquisa de tecido específicos.
 
 Contexto e detalhes da cliente e seu pedido, em Relatório :  [Projeto de API rapida_ Entrega de vestido de casamento.docx](https://github.com/user-attachments/files/25810253/Projeto.de.API.rapida_.Entrega.de.vestido.de.casamento.docx)
@@ -37,6 +39,7 @@ Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados,
 
 ## Excel e Banco de Dados
 📅 03/12/2026
+
 📌 Durante a aula, trabalhamos na interação com o Excel, com base de dados originários da transparência de dados públicos no site da Prefeitura de São José dos Campos, pesquisa direcionada a Receita da cidade.
 
 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados (https://www.youtube.com/watch?v=vk8hFhPEbqs)
@@ -44,6 +47,7 @@ Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados (https://ww
 📊 Arquivo do próprio excel, sobre esse desenvolvimento :  [Todos os ensinamentos.xlsx](https://github.com/user-attachments/files/25956224/Todos.os.ensinamentos.xlsx)
 
 📅 13/03/2026
+
 📌 Ainda na pesquisar sobre dados publicos da Prefeitura da cidade, com foco em despesas de São José dos Campos.
 Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre secretaria, e fizemos gráfico para visualização rápida de dados, assim praticando CONT.ME e SOMASE.
 
@@ -56,7 +60,10 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento :  [MeusFornecedores.xlsx](https://github.com/user-attachments/files/26032319/MeusFornecedores.xlsx)
 
 📅 09/04/2026
+
 📌 Escolhemos em conjunto de base dos dados públicos de São Paulo focados em Educação, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, MÁXIMO e o CORRESP.
+
+<img width="358" height="285" alt="Todas Perguntas Respondidas em Educacao 1 xlsx - Google Chrome 16_04_2026 13_00_21" src="https://github.com/user-attachments/assets/235309c5-b4a5-4355-9102-7e65170eb21a" />
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Todas Perguntas Respondidas em Educação.xlsx](https://github.com/user-attachments/files/26720607/Todas.Perguntas.Respondidas.em.Educacao.xlsx)
 
