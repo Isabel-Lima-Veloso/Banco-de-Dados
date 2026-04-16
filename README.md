@@ -1,3 +1,4 @@
+[Perguntas sobre Casamentos.xlsx](https://github.com/user-attachments/files/26794766/Perguntas.sobre.Casamentos.xlsx)
 # Banco-de-Dados
 📌 Aqui estarão registros da disciplina Fontes de Informação e Banco de Dados, ministrada no primeiro semestre de Gestão de Produção industrial (GPI)
 
@@ -65,9 +66,10 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📌 Usando um outro conjunto de base dos dados públicos de São Paulo, dessa vez focados em Casamentos, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, CONT.SES, MÁXIMO e o CORRESP.
 
-<img width="319" height="285" alt="Captura de tela de Casamentos png" src="https://github.com/user-attachments/assets/0f7a6241-5b75-41f3-9644-1088ab70ed8b" />
+<img width="550" height="495" alt="Perguntas sobre Casamentos xlsx - Google Chrome 16_04_2026 14_24_51" src="https://github.com/user-attachments/assets/eea052a9-1614-45b8-b2d1-d39dd391409f" />
+<img width="783" height="634" alt="Perguntas sobre Casamentos xlsx - Google Chrome 16_04_2026 14_25_07" src="https://github.com/user-attachments/assets/d92f21b5-a376-4ec9-bba1-1d3693806749" />
 
-📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Perguntas sobre Casamentos.xlsx](https://github.com/user-attachments/files/26791968/Perguntas.sobre.Casamentos.xlsx)
+📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Perguntas sobre Casamentos.xlsx](https://github.com/user-attachments/files/26794774/Perguntas.sobre.Casamentos.xlsx)
 
 ## 🧾Certificado de compensação de feriados:
 
