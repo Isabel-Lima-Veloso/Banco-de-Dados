@@ -38,7 +38,11 @@ Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados,
 
 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados (https://www.youtube.com/watch?v=vk8hFhPEbqs)
 
-📊 Arquivo do próprio excel, sobre esse desenvolvimento :  [Todos os ensinamentos.xlsx](https://github.com/user-attachments/files/25956224/Todos.os.ensinamentos.xlsx)
+<img width="966" height="658" alt="Todos os ensinamentos xlsx - Google Chrome 16_04_2026 13_27_25" src="https://github.com/user-attachments/assets/ca3ce4f3-a597-4b7e-9219-d66b2d8fb05e" />
+
+📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Todos.os.ensinamentos.xlsx](https://github.com/user-attachments/files/26792938/Todos.os.ensinamentos.xlsx)
+
+
 
 📅 13/03/2026    📌 Ainda na pesquisar sobre dados publicos da Prefeitura da cidade, com foco em despesas de São José dos Campos.
 Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre secretaria, e fizemos gráfico para visualização rápida de dados, assim praticando CONT.ME e SOMASE.
@@ -49,7 +53,9 @@ Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre
 
 Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela envolvendo meses e dados de total pago, com um gráfico para rápido entendimento, treinada e finalizada em CONT.ME e SOMASE.
 
-📊 Arquivo do próprio excel, sobre esse desenvolvimento :  [MeusFornecedores.xlsx](https://github.com/user-attachments/files/26032319/MeusFornecedores.xlsx)
+📊 Arquivo do próprio excel, sobre esse desenvolvimento : [MeusFornecedores.xlsx](https://github.com/user-attachments/files/26792788/MeusFornecedores.xlsx)
+
+
 
 📅 09/04/2026    📌 Escolhemos em conjunto de base dos dados públicos de São Paulo focados em Educação, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, MÁXIMO e o CORRESP.
 
