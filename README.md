@@ -64,11 +64,13 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📌 Usando um outro conjunto de base dos dados públicos de São Paulo, dessa vez focados em Casamentos, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, CONT.SES, MÁXIMO e o CORRESP.
 
-<img width="483" height="495" alt="Capture 1" src="https://github.com/user-attachments/assets/777d39f0-ea0d-4d83-a8a7-78d8dc98fec3" />
-<img width="685" height="410" alt="Capture 2" src="https://github.com/user-attachments/assets/68d66b10-eed8-42a2-8ab1-adcce75220df" />
-<img width="483" height="495" alt="Capture 3" src="https://github.com/user-attachments/assets/abff9913-d65a-4cf8-9223-089808b2462e" />
+<img width="283" height="295" alt="Capture 1" src="https://github.com/user-attachments/assets/777d39f0-ea0d-4d83-a8a7-78d8dc98fec3" />
+<img width="585" height="310" alt="Capture 2" src="https://github.com/user-attachments/assets/68d66b10-eed8-42a2-8ab1-adcce75220df" />
+<img width="283" height="295" alt="Capture 3" src="https://github.com/user-attachments/assets/abff9913-d65a-4cf8-9223-089808b2462e" />
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Perguntas Sobre Casamentos.xlsx](https://github.com/user-attachments/files/26809112/Perguntas.Sobre.Casamentos.xlsx)
+Para acesso online, pelo sheets: https://docs.google.com/spreadsheets/d/1wmOcgaUnHccIKPACw2XzIpIllu_bqNs_Xy8y1CAFyYc/edit?usp=sharing
+
 ## 🧾Certificado de compensação de feriados:
 
 [Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf](https://github.com/user-attachments/files/26632932/Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf)
