@@ -43,6 +43,8 @@ Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados,
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento completo : [Grafico das Receitas.xlsx](https://github.com/user-attachments/files/26807597/Grafico.das.Receitas.xlsx)
 
+Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1siOUoDUvAya1caZrvwRfbMEi-hpSM6P1zvMnBBdPdaQ/edit?usp=sharing
+
 📅 13/03/2026    📌 Ainda na pesquisar sobre dados publicos da Prefeitura da cidade, com foco em despesas de São José dos Campos.
 Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre secretaria, e fizemos gráfico para visualização rápida de dados, assim praticando CONT.ME e SOMASE.
 
@@ -50,17 +52,21 @@ Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento :  [GraficoTabelaEspeciais.xlsx](https://github.com/user-attachments/files/26032355/GraficoTabelaEspeciais.xlsx)
 
+Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1vZIgSC-jc3_quLB7IldrgyJG828gOzMhK3c0jkSrPXo/edit?usp=sharing
+
 Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela envolvendo meses e dados de total pago, com um gráfico para rápido entendimento, treinada e finalizada em CONT.ME e SOMASE.
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [MeusFornecedores.xlsx](https://github.com/user-attachments/files/26792788/MeusFornecedores.xlsx)
 
-
+Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1woIv1eONGkSbNoAHZk6OSoQdQgW2h-ZOMAvO3lmXrvs/edit?usp=sharing
 
 📅 09/04/2026    📌 Escolhemos em conjunto de base dos dados públicos de São Paulo focados em Educação, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, MÁXIMO e o CORRESP.
 
 <img width="358" height="285" alt="Todas Perguntas Respondidas em Educacao 1 xlsx - Google Chrome 16_04_2026 13_00_21" src="https://github.com/user-attachments/assets/235309c5-b4a5-4355-9102-7e65170eb21a" />
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Todas Perguntas Respondidas em Educação.xlsx](https://github.com/user-attachments/files/26720607/Todas.Perguntas.Respondidas.em.Educacao.xlsx)
+
+Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1E9LaIyIjmd_jgrUs9WqL_VQkft3q6tVDWPWDYdGpl20/edit?usp=sharing
 
 📌 Usando um outro conjunto de base dos dados públicos de São Paulo, dessa vez focados em Casamentos, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, CONT.SES, MÁXIMO e o CORRESP.
 
