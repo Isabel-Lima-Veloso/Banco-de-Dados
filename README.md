@@ -17,7 +17,7 @@ Nessa dinâmica, a batata frita (🍟) ganhou.
 
 Eu tenho alergia a pelos, por isso o pet virtual.
 
-#####Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content=DAHBP-fUMyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+##### Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content=DAHBP-fUMyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Projeto de Vestido de Noiva Hindu 💃🏽
 📅 03/03/2026   📌 Feito em equipe, com divisões de tarefas, eu foi a desenvolvedora dos slides (organizando de maneira com ornamentos que combinavam com o tema) e colaborei na pesquisa de tecido específicos.
