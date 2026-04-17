@@ -1,4 +1,3 @@
-[Perguntas sobre Casamentos.xlsx](https://github.com/user-attachments/files/26794766/Perguntas.sobre.Casamentos.xlsx)
 # Banco-de-Dados
 📌 Aqui estarão registros da disciplina Fontes de Informação e Banco de Dados, ministrada no primeiro semestre de Gestão de Produção industrial (GPI)
 
