@@ -17,7 +17,7 @@ Nessa dinâmica, a batata frita (🍟) ganhou.
 
 Eu tenho alergia a pelos, por isso o pet virtual.
 
-Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content=DAHBP-fUMyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+##### Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content=DAHBP-fUMyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Projeto de Vestido de Noiva Hindu 💃🏽
 📅 03/03/2026   📌 Feito em equipe, com divisões de tarefas, eu foi a desenvolvedora dos slides (organizando de maneira com ornamentos que combinavam com o tema) e colaborei na pesquisa de tecido específicos.
@@ -28,7 +28,7 @@ Apresentação para a cliente Latifa, com esboços do Vestido, da Duppata e os A
 
 <img width="1243" height="699" alt="Projeto 2- 06_03_2026 -Apresentação Fatec - Grupo 5 - Apresentação - Google Chrome 07_03_2026 01_07_31" src="https://github.com/user-attachments/assets/309ac660-1ff7-40ea-b223-d0edf374d4fc" />
 
-Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content=DAHCkH1Leh4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+##### Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content=DAHCkH1Leh4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Tabela e Grafico 📄
 Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos expandindo a práticidade dentro do Excel.
@@ -80,7 +80,7 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
-Escolhi o tema recomendado, sendo "Ferramentas em Trabalhos Acadêmicos" também por interesse e afinidade genuína.
+Escolhi o tema recomendado, sendo "Ferramentas em Trabalhos Acadêmicos" também por interesse e afinidade.
 
 <img width="477" height="277" alt="Certificado Criando_Certificado-Trabalhos_Academicos_com_Ferramentas" src="https://github.com/user-attachments/assets/dbbbf001-9395-4906-bedd-df363437e873" />
 <img width="477" height="277" alt="Certificado digital - Google Chrome 10_04_2026 23_54_53" src="https://github.com/user-attachments/assets/456e1b57-f7f8-46cb-8543-b68737ea36a5" />
