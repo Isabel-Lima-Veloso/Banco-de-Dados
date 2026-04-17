@@ -84,6 +84,8 @@ Escolhi o tema recomendado, sendo "Ferramentas em Trabalhos Acadêmicos" também
 
 <img width="477" height="277" alt="Certificado Criando_Certificado-Trabalhos_Academicos_com_Ferramentas" src="https://github.com/user-attachments/assets/dbbbf001-9395-4906-bedd-df363437e873" />
 <img width="477" height="277" alt="Certificado digital - Google Chrome 10_04_2026 23_54_53" src="https://github.com/user-attachments/assets/456e1b57-f7f8-46cb-8543-b68737ea36a5" />
+
+
 🧾 PDF oficial do certificado : [Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf](https://github.com/user-attachments/files/26632932/Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf)
 
 
