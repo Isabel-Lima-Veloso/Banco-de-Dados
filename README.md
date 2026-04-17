@@ -69,7 +69,8 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 <img width="283" height="295" alt="Capture 3" src="https://github.com/user-attachments/assets/abff9913-d65a-4cf8-9223-089808b2462e" />
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Perguntas Sobre Casamentos.xlsx](https://github.com/user-attachments/files/26809112/Perguntas.Sobre.Casamentos.xlsx)
-Para acesso online, pelo sheets: https://docs.google.com/spreadsheets/d/1wmOcgaUnHccIKPACw2XzIpIllu_bqNs_Xy8y1CAFyYc/edit?usp=sharing
+
+Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1wmOcgaUnHccIKPACw2XzIpIllu_bqNs_Xy8y1CAFyYc/edit?usp=sharing
 
 ## 🧾Certificado de compensação de feriados:
 
