@@ -36,13 +36,12 @@ Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados,
 ## Excel e Banco de Dados
 📅 03/03/2026   📌 Durante a aula, trabalhamos na interação com o Excel, com base de dados originários da transparência de dados públicos no site da Prefeitura de São José dos Campos, pesquisa direcionada a Receita da cidade.
 
-📅 12/03/2026   📌 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados (https://www.youtube.com/watch?v=vk8hFhPEbqs) baseado no Livro: "StoryTelling com dados"
+📅 12/03/2026   📌 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados 
+(https://www.youtube.com/watch?v=vk8hFhPEbqs) baseado no Livro: "StoryTelling com dados"
 
-<img width="566" height="658" alt="Todos os ensinamentos xlsx - Google Chrome 16_04_2026 13_27_25" src="https://github.com/user-attachments/assets/ca3ce4f3-a597-4b7e-9219-d66b2d8fb05e" />
+<img width="566" height="658" alt="Todos os ensinamentos 1 xlsx - Google Chrome 17_04_2026 00_04_21" src="https://github.com/user-attachments/assets/5efd5f96-1a13-4333-8298-32adf14f98c4" />
 
-📊 Arquivo do próprio excel, sobre esse desenvolvimento completo : [Todos.os.ensinamentos.xlsx](https://github.com/user-attachments/files/26792938/Todos.os.ensinamentos.xlsx)
-
-
+📊 Arquivo do próprio excel, sobre esse desenvolvimento completo : [Grafico das Receitas.xlsx](https://github.com/user-attachments/files/26807597/Grafico.das.Receitas.xlsx)
 
 📅 13/03/2026    📌 Ainda na pesquisar sobre dados publicos da Prefeitura da cidade, com foco em despesas de São José dos Campos.
 Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre secretaria, e fizemos gráfico para visualização rápida de dados, assim praticando CONT.ME e SOMASE.
@@ -65,11 +64,11 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📌 Usando um outro conjunto de base dos dados públicos de São Paulo, dessa vez focados em Casamentos, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, CONT.SES, MÁXIMO e o CORRESP.
 
-<img width="483" height="495" alt="Perguntas sobre Casamentos xlsx - Google Chrome 16_04_2026 14_24_51" src="https://github.com/user-attachments/assets/eea052a9-1614-45b8-b2d1-d39dd391409f" />
-<img width="483" height="595" alt="Perguntas sobre Casamentos xlsx - Google Chrome 16_04_2026 14_25_07" src="https://github.com/user-attachments/assets/d92f21b5-a376-4ec9-bba1-1d3693806749" />
+<img width="483" height="495" alt="Capture 1" src="https://github.com/user-attachments/assets/777d39f0-ea0d-4d83-a8a7-78d8dc98fec3" />
+<img width="685" height="410" alt="Capture 2" src="https://github.com/user-attachments/assets/68d66b10-eed8-42a2-8ab1-adcce75220df" />
+<img width="483" height="495" alt="Capture 3" src="https://github.com/user-attachments/assets/abff9913-d65a-4cf8-9223-089808b2462e" />
 
-📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Perguntas sobre Casamentos.xlsx](https://github.com/user-attachments/files/26794774/Perguntas.sobre.Casamentos.xlsx)
-
+📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Perguntas Sobre Casamentos.xlsx](https://github.com/user-attachments/files/26809112/Perguntas.Sobre.Casamentos.xlsx)
 ## 🧾Certificado de compensação de feriados:
 
 [Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf](https://github.com/user-attachments/files/26632932/Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf)
