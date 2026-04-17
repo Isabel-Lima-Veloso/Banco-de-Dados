@@ -1,5 +1,6 @@
 # Banco-de-Dados
 Aqui estarão registros da disciplina Fontes de Informação e Banco de Dados, ministrada no primeiro semestre de Gestão de Produção industrial (GPI)
+
 Lecionada pela professora Adriana da Silva Jacinto.
 
 # Apresentações
