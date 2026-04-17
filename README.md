@@ -39,7 +39,7 @@ Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados,
 📅 12/03/2026   📌 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados 
 (https://www.youtube.com/watch?v=vk8hFhPEbqs) baseado no Livro: "StoryTelling com dados"
 
-<img width="566" height="658" alt="Todos os ensinamentos 1 xlsx - Google Chrome 17_04_2026 00_04_21" src="https://github.com/user-attachments/assets/5efd5f96-1a13-4333-8298-32adf14f98c4" />
+<img width="866" height="658" alt="Todos os ensinamentos 1 xlsx - Google Chrome 17_04_2026 00_04_21" src="https://github.com/user-attachments/assets/5efd5f96-1a13-4333-8298-32adf14f98c4" />
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento completo : [Grafico das Receitas.xlsx](https://github.com/user-attachments/files/26807597/Grafico.das.Receitas.xlsx)
 
