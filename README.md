@@ -77,6 +77,11 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Perguntas Sobre Casamentos.xlsx](https://github.com/user-attachments/files/26809112/Perguntas.Sobre.Casamentos.xlsx)
 
+📅 23/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São José dos Campos, coletamos os dados de despesa por fusão dos meses passados (Janeiro,Fevereiro,Março) e interagimos com o Power BI Desktop, fizemos nossa primeira tabela e um segmento de dados para esse segmento.
+
+📊 Arquivo do próprio PowerBI (infelizmente e necessario compactar para ZIP) sobre esse desenvolvimento : [Despesas 2026, começo de ano.zip](https://github.com/user-attachments/files/27035918/Despesas.2026.comeco.de.ano.zip)
+
+
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1wmOcgaUnHccIKPACw2XzIpIllu_bqNs_Xy8y1CAFyYc/edit?usp=sharing
 
 ## 🧾Certificado referendes a matéria :
