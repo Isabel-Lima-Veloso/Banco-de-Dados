@@ -1,3 +1,4 @@
+
 # Banco-de-Dados
 Aqui estarão registros da disciplina Fontes de Informação e Banco de Dados, ministrada no primeiro semestre de Gestão de Produção industrial (GPI)
 
@@ -88,4 +89,4 @@ Escolhi o tema recomendado, sendo "Ferramentas em Trabalhos Acadêmicos" também
 Com a necessidade rápida de desenvolver habilidade no Power BI, foi declarada a recomendação de fazer um curso para termos uma base sólida sobre a plataforma.
 🧷 PDF oficial do certificado : [Certificate_AnálisePowerBI.pdf](https://github.com/user-attachments/files/27035790/Certificate_AnalisePowerBI.pdf)
 
-<img width="450" height="250" alt="Certificate_AnálisePowerBI pdf - Pessoal — Microsoft​ Edge 24_04_2026 00_42_22" src="https://github.com/user-attachments/assets/63e6841f-8690-4f0d-80c8-0252d4abce40" />
+<img width="450" height="250" alt="Certificate_AnálisePowerBI pdf - Pessoal — Microsoft​ Edge 2aqwwsdfghjnmkl" src="https://github.com/user-attachments/assets/aa223ac0-35ea-4f90-a93f-fa343b0b8704" />
