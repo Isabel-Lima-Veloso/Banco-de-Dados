@@ -81,17 +81,11 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
 Escolhi o tema recomendado, sendo "Ferramentas em Trabalhos Acadêmicos" também por interesse e afinidade.
-
-<img width="400" height="200" alt="Certificado Criando_Certificado-Trabalhos_Academicos_com_Ferramentas" src="https://github.com/user-attachments/assets/dbbbf001-9395-4906-bedd-df363437e873" /> <img width="400" height="200" alt="Certificado digital - Google Chrome 10_04_2026 23_54_53" src="https://github.com/user-attachments/assets/456e1b57-f7f8-46cb-8543-b68737ea36a5" />
-
-
 🧷 PDF oficial do certificado : [Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf](https://github.com/user-attachments/files/26632932/Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf)
 
+<img width="450" height="250" alt="Certificado Criando_Certificado-Trabalhos_Academicos_com_Ferramentas" src="https://github.com/user-attachments/assets/dbbbf001-9395-4906-bedd-df363437e873" /> <img width="450" height="250" alt="Certificado digital - Google Chrome 10_04_2026 23_54_53" src="https://github.com/user-attachments/assets/456e1b57-f7f8-46cb-8543-b68737ea36a5" />
+
 Com a necessidade rápida de desenvolver habilidade no Power BI, foi declarada a recomendação de fazer um curso para termos uma base sólida sobre a plataforma.
-
-<img width="450" height="250" alt="Certificate_AnálisePowerBI pdf - Pessoal — Microsoft​ Edge 24_04_2026 00_42_22" src="https://github.com/user-attachments/assets/63e6841f-8690-4f0d-80c8-0252d4abce40" />
-
-
 🧷 PDF oficial do certificado : [Certificate_AnálisePowerBI.pdf](https://github.com/user-attachments/files/27035790/Certificate_AnalisePowerBI.pdf)
 
-
+<img width="450" height="250" alt="Certificate_AnálisePowerBI pdf - Pessoal — Microsoft​ Edge 24_04_2026 00_42_22" src="https://github.com/user-attachments/assets/63e6841f-8690-4f0d-80c8-0252d4abce40" />
