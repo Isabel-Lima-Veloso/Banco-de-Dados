@@ -81,7 +81,7 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📅 23/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São José dos Campos, coletamos os dados de despesa por fusão dos meses passados (Janeiro,Fevereiro,Março) e interagimos com o Power BI Desktop, fizemos nossa primeira tabela e um segmento de dados para esse segmento.
 
-📊 Arquivo do próprio PowerBI (infelizmente foi compactado para ZIP) sobre esse desenvolvimento : [Despesas 2026, começo de ano.zip](https://github.com/user-attachments/files/27035918/Despesas.2026.comeco.de.ano.zip)
+📊 Arquivo do próprio PowerBI (infelizmente foi compactado para ZIP) sobre esse desenvolvimento : deu errado pra caralho ! [Despesas 2026, começo de ano.zip](https://github.com/user-attachments/files/27035918/Despesas.2026.comeco.de.ano.zip)
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
