@@ -83,9 +83,13 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📊 Arquivo do próprio PowerBI (infelizmente foi compactado para ZIP) sobre esse desenvolvimento : [Despesa.zip](https://github.com/user-attachments/files/27070873/Despesa.zip)
 
-📅 23/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São José dos Campos, coletamos os dados de despesa por fusão dos meses passados (Janeiro,Fevereiro,Março) e interagimos com o Power BI Desktop, fizemos nossa primeira tabela e um segmento de dados para esse segmento.
+📅 24/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São José dos Campos, coletamos os dados de despesa por fusão dos meses passados (Janeiro,Fevereiro,Março) e interagimos com o Power BI Desktop, fizemos nossa primeira tabela e um segmento de dados para esse segmento.
 
 📊 Arquivo do próprio PowerBI (infelizmente foi compactado para ZIP) sobre esse desenvolvimento : [Matricula.zip](https://github.com/user-attachments/files/27070699/Matricula.zip)
+
+
+[MatriculaBonito.zip](https://github.com/user-attachments/files/27071352/MatriculaBonito.zip)
+
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
