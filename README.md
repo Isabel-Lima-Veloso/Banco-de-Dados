@@ -87,10 +87,9 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 <img width="900" height="500" alt="Power BI Desktop 01_05_2026 13_03_51" src="https://github.com/user-attachments/assets/01662e0f-5f34-452d-b7e9-00c8398fe784" />
 
-#### Nessa imagem as tabelas foram direcionadas pelo feminio, ao clicar no segmento.
+##### Nessa imagem as tabelas foram direcionadas pelo feminio, ao clicar no segmento.
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [MatriculaBonito.zip](https://github.com/user-attachments/files/27071352/MatriculaBonito.zip)
-
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
