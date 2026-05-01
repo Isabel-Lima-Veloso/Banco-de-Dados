@@ -83,7 +83,9 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Despesa.zip](https://github.com/user-attachments/files/27070873/Despesa.zip)
 
-📅 24/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Educação, interagimos com o Power BI Desktop, fizemos uma página com o eixo sendo a divisão de gênero de forma a utilizar imagens representativas por URL.
+📅 24/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Educação, interagimos com o Power BI Desktop, fizemos uma página com o segmento de dados sendo a divisão de gênero de forma a utilizar imagens representativas por URL.
+
+<img width="1000" height="555" alt="Power BI Desktop 01_05_2026 13_03_51" src="https://github.com/user-attachments/assets/4017e51b-535e-4f23-ad98-323b4205ba64" />
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [MatriculaBonito.zip](https://github.com/user-attachments/files/27071352/MatriculaBonito.zip)
 
