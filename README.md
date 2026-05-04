@@ -83,13 +83,19 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Despesa.zip](https://github.com/user-attachments/files/27070873/Despesa.zip)
 
-📅 24/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Educação, interagimos com o Power BI Desktop, fizemos uma página com o segmento de dados sendo a divisão de gênero de forma a utilizar imagens representativas por URL.
+📅 24/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Educação, interagimos com o Power BI Desktop, fizemos uma página com três tipos de visualização, e com o segmento de dados sendo a divisão de gênero de forma a utilizar imagens representativas por URL.
 
 <img width="900" height="500" alt="Power BI Desktop 01_05_2026 13_03_51" src="https://github.com/user-attachments/assets/01662e0f-5f34-452d-b7e9-00c8398fe784" />
 
 ##### Nessa imagem as tabelas foram direcionadas pelo feminio, ao clicar no segmento.
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [MatriculaBonito.zip](https://github.com/user-attachments/files/27071352/MatriculaBonito.zip)
+
+📅 30/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Cultura, interagimos com o Power BI Desktop, fizemos uma página com três tipos de visualização, e com o segmento de dados sendo os tipos de vinculos disponíveis.
+
+<img width="600" height="300" alt="Power bi foto1" src="https://github.com/user-attachments/assets/2ab68307-65fb-4fc9-9b6f-f00e607f47f6" />
+
+📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Cultura 2025 Funcionarios.zip](https://github.com/user-attachments/files/27370158/Cultura.2025.Funcionarios.zip)
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
