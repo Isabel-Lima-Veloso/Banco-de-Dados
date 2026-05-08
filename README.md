@@ -93,7 +93,7 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📅 30/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Cultura, interagimos com o Power BI Desktop, fizemos uma página com três tipos de visualização, e com o segmento de dados sendo os tipos de vinculos disponíveis.
 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/6b640149-24a6-452e-b10f-8a73b8f7654c" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/cd37e4dd-7106-4b88-992e-9d787cf1701c" />
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Cultura 2025.zip](https://github.com/user-attachments/files/27500570/Cultura.2025.zip)
 
