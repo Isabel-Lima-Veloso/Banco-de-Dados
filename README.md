@@ -101,6 +101,11 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 [DadosDeEmpregoFormal.zip](https://github.com/user-attachments/files/27543385/DadosDeEmpregoFormal.zip)
 
+1. Em qual ano houve o menor saldo de movimentacao? e a maior movimentacao?
+
+2. Em qual ano a media de movimentacao foi maior que zero?
+[DadosDeEmpregoFormal (2).zip](https://github.com/user-attachments/files/27543884/DadosDeEmpregoFormal.2.zip)
+
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
 Escolhi o tema recomendado, sendo "Ferramentas em Trabalhos Acadêmicos" também por interesse e afinidade.
