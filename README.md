@@ -35,10 +35,8 @@ Apresentação para a cliente Latifa, com esboços do Vestido, da Duppata e os A
 Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos expandindo a práticidade dentro do Excel.
 
 ### Desenvolvimento de habilidades técnicas
-### 📅 03/03/2026   
+### 📅 03/03/2026 E 06/03/2026 Gráficos e Excel em desenvolvimento
 📌 Durante a aula, trabalhamos na interação com o Excel, com base de dados originários da transparência de dados públicos no site da Prefeitura de São José dos Campos, pesquisa direcionada a Receita da cidade.
-
-### 📅 06/03/2026   
 📌 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados 
 (https://www.youtube.com/watch?v=vk8hFhPEbqs) baseado no Livro: "StoryTelling com dados"
 
@@ -48,7 +46,7 @@ Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados,
 
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1siOUoDUvAya1caZrvwRfbMEi-hpSM6P1zvMnBBdPdaQ/edit?usp=sharing
 
-### 📅 13/03/2026   
+### 📅 12/032026 E 13/03/2026 Gráficos melhores e dinâmicos 
 📌 Ainda na pesquisar sobre dados publicos da Prefeitura da cidade, com foco em despesas de São José dos Campos.
 Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre secretaria, e fizemos gráfico para visualização rápida de dados, assim praticando CONT.ME e SOMASE.
 
@@ -64,7 +62,8 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1woIv1eONGkSbNoAHZk6OSoQdQgW2h-ZOMAvO3lmXrvs/edit?usp=sharing
 
-📅 09/04/2026    📌 Escolhemos em conjunto de base dos dados públicos de São Paulo focados em Educação, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, MÁXIMO e o CORRESP.
+### 📅 09/04/2026 Começo dos códigos 
+📌 Escolhemos em conjunto de base dos dados públicos de São Paulo focados em Educação, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, MÁXIMO e o CORRESP.
 
 <img width="358" height="285" alt="Todas Perguntas Respondidas em Educacao 1 xlsx - Google Chrome 16_04_2026 13_00_21" src="https://github.com/user-attachments/assets/235309c5-b4a5-4355-9102-7e65170eb21a" />
 
@@ -72,6 +71,7 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1E9LaIyIjmd_jgrUs9WqL_VQkft3q6tVDWPWDYdGpl20/edit?usp=sharing
 
+### 📅 10/04/2026 - Atividade complementar
 📌 Usando um outro conjunto de base dos dados públicos de São Paulo, dessa vez focados em Casamentos, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, CONT.SES, MÁXIMO e o CORRESP.
 
 <img width="300" height="300" alt="Capture 1" src="https://github.com/user-attachments/assets/777d39f0-ea0d-4d83-a8a7-78d8dc98fec3" />
@@ -82,11 +82,15 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1wmOcgaUnHccIKPACw2XzIpIllu_bqNs_Xy8y1CAFyYc/edit?usp=sharing
 
-📅 23/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São José dos Campos, coletamos os dados de despesa por fusão dos meses passados (Janeiro,Fevereiro,Março) e interagimos com o Power BI Desktop, fizemos nossa primeira tabela e um segmento de dados para esse segmento.
+# Power BI !!
+
+### 📅 23/04/2026 Primeira interação 
+📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São José dos Campos, coletamos os dados de despesa por fusão dos meses passados (Janeiro,Fevereiro,Março) e interagimos com o Power BI Desktop, fizemos nossa primeira tabela e um segmento de dados para esse segmento.
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Despesa.zip](https://github.com/user-attachments/files/27070873/Despesa.zip)
 
-📅 24/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Educação, interagimos com o Power BI Desktop, fizemos uma página com três tipos de visualização, e com o segmento de dados sendo a divisão de gênero de forma a utilizar imagens representativas por URL.
+### 📅 24/04/2026 Fortalecendo conhecimento
+📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Educação, interagimos com o Power BI Desktop, fizemos uma página com três tipos de visualização, e com o segmento de dados sendo a divisão de gênero de forma a utilizar imagens representativas por URL.
 
 <img width="900" height="500" alt="Power BI Desktop 01_05_2026 13_03_51" src="https://github.com/user-attachments/assets/01662e0f-5f34-452d-b7e9-00c8398fe784" />
 
@@ -94,21 +98,28 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [MatriculaBonito.zip](https://github.com/user-attachments/files/27071352/MatriculaBonito.zip)
 
-📅 30/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Cultura, interagimos com o Power BI Desktop, fizemos uma página com três tipos de visualização, e com o segmento de dados sendo os tipos de vinculos disponíveis.
+### 📅 30/04/2026 
+📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Cultura, interagimos com o Power BI Desktop, fizemos uma página com três tipos de visualização, e com o segmento de dados sendo os tipos de vinculos disponíveis.
 
 <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/01fea372-23b1-4385-b700-0097314d69e6" />
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Cultura 2025.zip](https://github.com/user-attachments/files/27544259/Cultura.2025.zip)
 
-📅 08/05/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Trabalho, especialmente em Empregos formais, interagindo com o Power BI Desktop, fizemos uma conexão entre tabelas e utilizamos o DAX, a linguagem para códigos do Power BI, ao utilizar o CONCATENATE, e também aprendemos a visualizar um mapa, a linguagem para códigos do Power BI.
+### 📅 08/05/2026    
+📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Trabalho, especialmente em Empregos formais, interagindo com o Power BI Desktop, fizemos uma conexão entre tabelas e utilizamos o DAX, a linguagem para códigos do Power BI, ao utilizar o CONCATENATE, e também aprendemos a visualizar um mapa, a linguagem para códigos do Power BI.
 Após a construção do arquivo, utilizamos os dados para responder duas perguntas:
 
 1. Em qual ano e mês houve o menor saldo de movimentação? e a maior movimentação?
 Com base na imagem anexada abaixo, podemos concluir que, o ano e mês com menor saldo de movimentação foi em abril de 2020.
 
+<img width="450" height="250" alt="Power BI Desktop 09_05_2026 00_42_30" src="https://github.com/user-attachments/assets/4bc26a66-d419-4061-b879-e246c5579243" />
+
 E o ano e mês com maior saldo de movimetação foi em fevereiro de 2025.
-3. Em qual ano a media de movimentação foi maior que zero?
-Com base na imagem anexada abaixo, podmeos concluir que, os anos que apresentaram média maior que zero foram: 2021, 2022, 2023, 2024, 2025, 2026.
+<img width="450" height="250" alt="Power BI Desktop 09_05_2026 00_48_27" src="https://github.com/user-attachments/assets/a65a17cd-8cee-4a4f-aac2-7dfaff467030" />
+
+3. Em qual ano amédia de movimentação foi maior que zero?
+Com base na imagem anexada abaixo, olhando para o gráfico de "média de movimentação por ano", podmeos concluir que, os anos que apresentaram média maior que zero foram: 2021, 2022, 2023, 2024, 2025, 2026.
+<img width="700" height="350" alt="Power BI Desktop 09_05_2026 00_41_11" src="https://github.com/user-attachments/assets/b54b4d71-7da5-4a72-ac56-71cbfb250029" />
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [EmpregoFormal.zip](https://github.com/user-attachments/files/27544090/EmpregoFormal.zip)
 
