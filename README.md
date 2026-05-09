@@ -97,10 +97,7 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Cultura.2025 .zip](https://github.com/user-attachments/files/27501092/Cultura.2025.zip)
 
-📅 08/05/2026    📌 
-
-[DadosDeEmpregoFormal.zip](https://github.com/user-attachments/files/27543385/DadosDeEmpregoFormal.zip)
-
+📅 08/05/2026    📌 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 1. Em qual ano houve o menor saldo de movimentacao? e a maior movimentacao?
 
 2. Em qual ano a media de movimentacao foi maior que zero?
