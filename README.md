@@ -7,8 +7,8 @@ Lecionada pela professora Adriana da Silva Jacinto.
 # Apresentações
 Aqui evoluímos habilidades táticas de exibição de produtos e algumas vezes até nos mesmos.
 
-## Apresentação informal em equipe
-📅 21/02/2026   📌 Primeira apresentação feita no curso de GPI, para identificação de personas na turma.
+### 📅 21/02/2026 Apresentação informal em equipe, utilizando software gráfico "Canva"
+📌 Primeira apresentação feita no curso de GPI, para identificação de personas na turma.
 
 Relatamos nos slides, nossos animais de estimação, nossos hobbies e de forma descontraída (com interação com a turna, de votação) qual nossos tipos preferidos de batatas.
 
@@ -20,8 +20,8 @@ Eu tenho alergia a pelos, por isso o pet virtual.
 
 ##### Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content=DAHBP-fUMyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Projeto de Vestido de Noiva Hindu 💃🏽
-📅 03/03/2026   📌 Feito em equipe, com divisões de tarefas, eu foi a desenvolvedora dos slides (organizando de maneira com ornamentos que combinavam com o tema) e colaborei na pesquisa de tecido específicos.
+### 📅 03/03/2026 Projeto de Vestido de Noiva Hindu 💃🏽
+📌 Feito em equipe, com divisões de tarefas, eu foi a desenvolvedora dos slides (organizando de maneira com ornamentos que combinavam com o tema) e colaborei na pesquisa de tecido específicos.
 
 Contexto e detalhes da cliente e seu pedido, em Relatório :  [Projeto de API rapida_ Entrega de vestido de casamento.docx](https://github.com/user-attachments/files/25810253/Projeto.de.API.rapida_.Entrega.de.vestido.de.casamento.docx)
 
@@ -34,10 +34,12 @@ Apresentação para a cliente Latifa, com esboços do Vestido, da Duppata e os A
 # Tabela e Gráfico📄
 Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos expandindo a práticidade dentro do Excel.
 
-## Excel e Banco de Dados
-📅 03/03/2026   📌 Durante a aula, trabalhamos na interação com o Excel, com base de dados originários da transparência de dados públicos no site da Prefeitura de São José dos Campos, pesquisa direcionada a Receita da cidade.
+### Desenvolvimento de habilidades técnicas
+### 📅 03/03/2026   
+📌 Durante a aula, trabalhamos na interação com o Excel, com base de dados originários da transparência de dados públicos no site da Prefeitura de São José dos Campos, pesquisa direcionada a Receita da cidade.
 
-📅 12/03/2026   📌 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados 
+### 📅 06/03/2026   
+📌 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados 
 (https://www.youtube.com/watch?v=vk8hFhPEbqs) baseado no Livro: "StoryTelling com dados"
 
 <img width="866" height="658" alt="Todos os ensinamentos 1 xlsx - Google Chrome 17_04_2026 00_04_21" src="https://github.com/user-attachments/assets/5efd5f96-1a13-4333-8298-32adf14f98c4" />
@@ -46,7 +48,8 @@ Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados,
 
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1siOUoDUvAya1caZrvwRfbMEi-hpSM6P1zvMnBBdPdaQ/edit?usp=sharing
 
-📅 13/03/2026    📌 Ainda na pesquisar sobre dados publicos da Prefeitura da cidade, com foco em despesas de São José dos Campos.
+### 📅 13/03/2026   
+📌 Ainda na pesquisar sobre dados publicos da Prefeitura da cidade, com foco em despesas de São José dos Campos.
 Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre secretaria, e fizemos gráfico para visualização rápida de dados, assim praticando CONT.ME e SOMASE.
 
 <img width="1582" height="354" alt="Captura de tela 2026-03-13 220449" src="https://github.com/user-attachments/assets/b530d8d2-2592-4628-8832-1ae04c8923c5" />
@@ -98,10 +101,14 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Cultura 2025.zip](https://github.com/user-attachments/files/27544259/Cultura.2025.zip)
 
 📅 08/05/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Trabalho, especialmente em Empregos formais, interagindo com o Power BI Desktop, fizemos uma conexão entre tabelas e utilizamos o DAX, a linguagem para códigos do Power BI, ao utilizar o CONCATENATE, e também aprendemos a visualizar um mapa, a linguagem para códigos do Power BI.
-Com as visualizações feitas e possível responder as perguntas.
-1. Em qual ano e mês houve o menor saldo de movimentação? e a maior movimentação?
+Após a construção do arquivo, utilizamos os dados para responder duas perguntas:
 
-2. Em qual ano a media de movimentação foi maior que zero?
+1. Em qual ano e mês houve o menor saldo de movimentação? e a maior movimentação?
+Com base na imagem anexada abaixo, podemos concluir que, o ano e mês com menor saldo de movimentação foi em abril de 2020.
+
+E o ano e mês com maior saldo de movimetação foi em fevereiro de 2025.
+3. Em qual ano a media de movimentação foi maior que zero?
+Com base na imagem anexada abaixo, podmeos concluir que, os anos que apresentaram média maior que zero foram: 2021, 2022, 2023, 2024, 2025, 2026.
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [EmpregoFormal.zip](https://github.com/user-attachments/files/27544090/EmpregoFormal.zip)
 
