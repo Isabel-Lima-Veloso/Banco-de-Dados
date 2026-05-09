@@ -97,6 +97,10 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Cultura.2025 .zip](https://github.com/user-attachments/files/27501092/Cultura.2025.zip)
 
+📅 08/05/2026    📌 
+
+[DadosDeEmpregoFormal.zip](https://github.com/user-attachments/files/27543385/DadosDeEmpregoFormal.zip)
+
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
 Escolhi o tema recomendado, sendo "Ferramentas em Trabalhos Acadêmicos" também por interesse e afinidade.
