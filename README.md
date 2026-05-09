@@ -93,17 +93,14 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📅 30/04/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Cultura, interagimos com o Power BI Desktop, fizemos uma página com três tipos de visualização, e com o segmento de dados sendo os tipos de vinculos disponíveis.
 
-<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/cd37e4dd-7106-4b88-992e-9d787cf1701c" />
 <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/01fea372-23b1-4385-b700-0097314d69e6" />
 
-[Cultura 2025.zip](https://github.com/user-attachments/files/27544259/Cultura.2025.zip)
-
-📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Cultura.2025 .zip](https://github.com/user-attachments/files/27501092/Cultura.2025.zip)
+📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Cultura 2025.zip](https://github.com/user-attachments/files/27544259/Cultura.2025.zip)
 
 📅 08/05/2026    📌 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-1. Em qual ano houve o menor saldo de movimentacao? e a maior movimentacao?
+1. Em qual ano houve o menor saldo de movimentação? e a maior movimentação?
 
-2. Em qual ano a media de movimentacao foi maior que zero?
+2. Em qual ano a media de movimentação foi maior que zero?
 
 [EmpregoFormal.zip](https://github.com/user-attachments/files/27544090/EmpregoFormal.zip)
 
