@@ -109,7 +109,8 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Trabalho, especialmente em Empregos formais, interagindo com o Power BI Desktop, fizemos uma conexão entre tabelas e utilizamos o DAX, a linguagem para códigos do Power BI, ao utilizar o CONCATENATE, e também aprendemos a visualizar um mapa, a linguagem para códigos do Power BI.
 Após a construção do arquivo, utilizamos os dados para responder duas perguntas:
 
-1. Em qual ano e mês houve o menor saldo de movimentação? e a maior movimentação?
+* Em qual ano e mês houve o menor saldo de movimentação? e a maior movimentação?
+
 Com base na imagem anexada abaixo, podemos concluir que, o ano e mês com menor saldo de movimentação foi em abril de 2020.
 
 <img width="450" height="250" alt="Power BI Desktop 09_05_2026 00_42_30" src="https://github.com/user-attachments/assets/4bc26a66-d419-4061-b879-e246c5579243" />
@@ -117,7 +118,8 @@ Com base na imagem anexada abaixo, podemos concluir que, o ano e mês com menor 
 E o ano e mês com maior saldo de movimetação foi em fevereiro de 2025.
 <img width="450" height="250" alt="Power BI Desktop 09_05_2026 00_48_27" src="https://github.com/user-attachments/assets/a65a17cd-8cee-4a4f-aac2-7dfaff467030" />
 
-3. Em qual ano amédia de movimentação foi maior que zero?
+* Em qual ano amédia de movimentação foi maior que zero?
+
 Com base na imagem anexada abaixo, olhando para o gráfico de "média de movimentação por ano", podmeos concluir que, os anos que apresentaram média maior que zero foram: 2021, 2022, 2023, 2024, 2025, 2026.
 <img width="700" height="350" alt="Power BI Desktop 09_05_2026 00_41_11" src="https://github.com/user-attachments/assets/b54b4d71-7da5-4a72-ac56-71cbfb250029" />
 
