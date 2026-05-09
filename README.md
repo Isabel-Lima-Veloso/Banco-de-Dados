@@ -1,5 +1,5 @@
 
-# Banco-de-Dados
+# Banco de Dados
 Aqui estarão registros da disciplina Fontes de Informação e Banco de Dados, ministrada no primeiro semestre de Gestão de Produção industrial (GPI)
 
 Lecionada pela professora Adriana da Silva Jacinto.
@@ -97,12 +97,13 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Cultura 2025.zip](https://github.com/user-attachments/files/27544259/Cultura.2025.zip)
 
-📅 08/05/2026    📌 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-1. Em qual ano houve o menor saldo de movimentação? e a maior movimentação?
+📅 08/05/2026    📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Trabalho, especialmente em Empregos formais, interagindo com o Power BI Desktop, fizemos uma conexão entre tabelas e utilizamos o DAX, a linguagem para códigos do Power BI, ao utilizar o CONCATENATE, e também aprendemos a visualizar um mapa, a linguagem para códigos do Power BI.
+Com as visualizações feitas e possível responder as perguntas.
+1. Em qual ano e mês houve o menor saldo de movimentação? e a maior movimentação?
 
 2. Em qual ano a media de movimentação foi maior que zero?
 
-[EmpregoFormal.zip](https://github.com/user-attachments/files/27544090/EmpregoFormal.zip)
+📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [EmpregoFormal.zip](https://github.com/user-attachments/files/27544090/EmpregoFormal.zip)
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
