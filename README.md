@@ -82,6 +82,14 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1wmOcgaUnHccIKPACw2XzIpIllu_bqNs_Xy8y1CAFyYc/edit?usp=sharing
 
+### 📅 14/05/2026 - Gráfico de regressão linear 
+Site usado para isso:
+https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download
+
+<img width="550" height="260" alt="image" src="https://github.com/user-attachments/assets/412fb3fb-93b0-4521-8b1b-b163537b1911" />
+
+📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Venda de Sorvete por Temperatura.xlsx](https://github.com/user-attachments/files/27782005/Venda.de.Sorvete.por.Temperatura.xlsx)
+
 # Power BI !!
 
 ### 📅 23/04/2026 Primeira interação 
