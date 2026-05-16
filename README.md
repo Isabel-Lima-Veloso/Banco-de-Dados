@@ -113,9 +113,7 @@ Após a construção do arquivo, utilizamos os dados para responder duas pergunt
 
 * Em qual ano e mês houve o menor saldo de movimentação? e a maior movimentação?
 
-Com base na imagem anexada abaixo, podemos concluir que, o ano e mês com menor saldo de movimentação foi em abril de 2020.
-
-E na imagem abaixo, comprova-se que o ano e o mês com maior saldo de movimetação foi em fevereiro de 2025.
+Com base na imagem anexada abaixo, podemos concluir que, o ano e mês com menor saldo de movimentação foi em abril de 2020. E na imagem ao lado, comprova-se que o ano e o mês com maior saldo de movimetação foi em fevereiro de 2025.
 
 <img width="450" height="250" alt="Power BI Desktop 09_05_2026 00_42_30" src="https://github.com/user-attachments/assets/4bc26a66-d419-4061-b879-e246c5579243" />
 <img width="450" height="250" alt="Power BI Desktop 09_05_2026 00_48_27" src="https://github.com/user-attachments/assets/a65a17cd-8cee-4a4f-aac2-7dfaff467030" />
@@ -130,7 +128,7 @@ Com base na imagem anexada abaixo, olhando para o gráfico de "média de movimen
 # Códigos 💻
 
 ### 📅 14/05/2026 - Gráfico de regressão linear 
-Site usado para isso : [Kaggle](https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download)
+Ao utilizar o site : [Kaggle](https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download) , primeiramente baixamos os arquivos escolhidos e fizemos o tratamento deles, ao transformar o texto em colunas e formatar em tabela, para depois fazer um grafico de dispersao com a linha linear.
 
 <img width="700" height="260" alt="image" src="https://github.com/user-attachments/assets/412fb3fb-93b0-4521-8b1b-b163537b1911" />
 
