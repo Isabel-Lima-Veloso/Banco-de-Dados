@@ -128,20 +128,19 @@ Com base na imagem anexada abaixo, olhando para o gráfico de "média de movimen
 # Código
 
 ### 📅 14/05/2026 - Gráfico de regressão linear 
-Site usado para isso:
-https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download
+Site usado para isso : [Kaggle](https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download)
 
 <img width="700" height="260" alt="image" src="https://github.com/user-attachments/assets/412fb3fb-93b0-4521-8b1b-b163537b1911" />
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Venda de Sorvete por Temperatura.xlsx](https://github.com/user-attachments/files/27782005/Venda.de.Sorvete.por.Temperatura.xlsx)
 
 ### 📅 14/05/2026 - Gráfico de regressão linear por codigo
+
 <img width="722" height="767" alt="image" src="https://github.com/user-attachments/assets/2177eb15-7b99-49a2-8b9d-78a792701148" />
 
 [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Ice_Cream_e_Temp.ipynb)
 
-
-https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo
+Site usado para isso : [Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo)
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Consumo_cerveja_Media.xlsx](https://github.com/user-attachments/files/27838899/Consumo_cerveja.Media.xlsx)
 
