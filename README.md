@@ -144,7 +144,7 @@ https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?r
 https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo
 
 <img width="1189" height="417" alt="image" src="https://github.com/user-attachments/assets/a28b1d1b-08b2-4a3c-a347-e969f99d140e" />
-📊 Arquivo do próprio excel, sobre esse desenvolvimento :  [Consumo_cerveja.Media.xlsx](https://github.com/user-attachments/files/27838865/Consumo_cerveja.Media.xlsx)
+📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Consumo_cerveja.Media.xlsx](https://github.com/user-attachments/files/27838899/Consumo_cerveja.Media.xlsx)
 
 
 ## 🧾Certificado referendes a matéria :
