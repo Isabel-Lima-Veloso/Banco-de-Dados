@@ -125,7 +125,7 @@ Com base na imagem anexada abaixo, olhando para o gráfico de "média de movimen
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [EmpregoFormal.zip](https://github.com/user-attachments/files/27544090/EmpregoFormal.zip)
 
-# Código
+# Códigos 💻
 
 ### 📅 14/05/2026 - Gráfico de regressão linear 
 Site usado para isso : [Kaggle](https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download)
