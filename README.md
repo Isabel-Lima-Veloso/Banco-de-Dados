@@ -82,16 +82,6 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1wmOcgaUnHccIKPACw2XzIpIllu_bqNs_Xy8y1CAFyYc/edit?usp=sharing
 
-### 📅 14/05/2026 - Gráfico de regressão linear 
-Site usado para isso:
-https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download
-
-<img width="700" height="260" alt="image" src="https://github.com/user-attachments/assets/412fb3fb-93b0-4521-8b1b-b163537b1911" />
-
-📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Venda de Sorvete por Temperatura.xlsx](https://github.com/user-attachments/files/27782005/Venda.de.Sorvete.por.Temperatura.xlsx)
-
-[Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Ice_Cream_e_Temp.ipynb)
-
 # Power BI !!
 
 ### 📅 23/04/2026 Primeira interação 
@@ -134,6 +124,18 @@ Com base na imagem anexada abaixo, olhando para o gráfico de "média de movimen
 <img width="700" height="350" alt="Power BI Desktop 09_05_2026 00_41_11" src="https://github.com/user-attachments/assets/b54b4d71-7da5-4a72-ac56-71cbfb250029" />
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [EmpregoFormal.zip](https://github.com/user-attachments/files/27544090/EmpregoFormal.zip)
+
+# Código
+
+### 📅 14/05/2026 - Gráfico de regressão linear 
+Site usado para isso:
+https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download
+
+<img width="700" height="260" alt="image" src="https://github.com/user-attachments/assets/412fb3fb-93b0-4521-8b1b-b163537b1911" />
+
+📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Venda de Sorvete por Temperatura.xlsx](https://github.com/user-attachments/files/27782005/Venda.de.Sorvete.por.Temperatura.xlsx)
+
+[Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Ice_Cream_e_Temp.ipynb)
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
