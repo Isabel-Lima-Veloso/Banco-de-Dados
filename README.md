@@ -140,8 +140,12 @@ https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?r
 
 [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Ice_Cream_e_Temp.ipynb)
 
+
+https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo
+
 <img width="1189" height="417" alt="image" src="https://github.com/user-attachments/assets/a28b1d1b-08b2-4a3c-a347-e969f99d140e" />
-[Consumo_cerveja.Media.xlsx](https://github.com/user-attachments/files/27838755/Consumo_cerveja.Media.xlsx)
+[Consumo_cerveja.Media.xlsx](https://github.com/user-attachments/files/27838865/Consumo_cerveja.Media.xlsx)
+
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
