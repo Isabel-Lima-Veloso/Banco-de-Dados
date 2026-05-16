@@ -135,10 +135,13 @@ https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?r
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Venda de Sorvete por Temperatura.xlsx](https://github.com/user-attachments/files/27782005/Venda.de.Sorvete.por.Temperatura.xlsx)
 
-### 📅 14/05/2026 - Gráfico de regressão linear 
+### 📅 14/05/2026 - Gráfico de regressão linear por codigo
 <img width="722" height="767" alt="image" src="https://github.com/user-attachments/assets/2177eb15-7b99-49a2-8b9d-78a792701148" />
 
 [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Ice_Cream_e_Temp.ipynb)
+
+<img width="1189" height="417" alt="image" src="https://github.com/user-attachments/assets/a28b1d1b-08b2-4a3c-a347-e969f99d140e" />
+[Consumo_cerveja.Media.xlsx](https://github.com/user-attachments/files/27838755/Consumo_cerveja.Media.xlsx)
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
