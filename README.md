@@ -115,13 +115,10 @@ Após a construção do arquivo, utilizamos os dados para responder duas pergunt
 
 Com base na imagem anexada abaixo, podemos concluir que, o ano e mês com menor saldo de movimentação foi em abril de 2020.
 
+E na imagem abaixo, comprova-se que o ano e o mês com maior saldo de movimetação foi em fevereiro de 2025.
+
 <img width="450" height="250" alt="Power BI Desktop 09_05_2026 00_42_30" src="https://github.com/user-attachments/assets/4bc26a66-d419-4061-b879-e246c5579243" />
-
-
-
 <img width="450" height="250" alt="Power BI Desktop 09_05_2026 00_48_27" src="https://github.com/user-attachments/assets/a65a17cd-8cee-4a4f-aac2-7dfaff467030" />
-E esta ultima imagem, comprova que o ano e o mês com maior saldo de movimetação foi em fevereiro de 2025.
-
 
 * Em qual ano amédia de movimentação foi maior que zero?
 
