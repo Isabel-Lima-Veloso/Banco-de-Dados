@@ -75,6 +75,8 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 📌 Usando um outro conjunto de base dos dados públicos de São Paulo, dessa vez focados em Casamentos, desenvolvemos tabelas baseadas em perguntas, duas delas envolvendo gênero e outras duas envolvendo quantidades, usamos SOMASES, CONT.SES, MÁXIMO e o CORRESP.
 
 <img width="300" height="300" alt="Capture 1" src="https://github.com/user-attachments/assets/777d39f0-ea0d-4d83-a8a7-78d8dc98fec3" />
+
+
 <img width="500" height="250" alt="Capture 2" src="https://github.com/user-attachments/assets/68d66b10-eed8-42a2-8ab1-adcce75220df" />
 <img width="300" height="300" alt="Capture 3" src="https://github.com/user-attachments/assets/abff9913-d65a-4cf8-9223-089808b2462e" />
 
@@ -117,10 +119,8 @@ Com base na imagem anexada abaixo, podemos concluir que, o ano e mês com menor 
 
 
 
-E o ano e mês com maior saldo de movimetação foi em fevereiro de 2025.
 <img width="450" height="250" alt="Power BI Desktop 09_05_2026 00_48_27" src="https://github.com/user-attachments/assets/a65a17cd-8cee-4a4f-aac2-7dfaff467030" />
-
-
+E esta ultima imagem, comprova que o ano e o mês com maior saldo de movimetação foi em fevereiro de 2025.
 
 
 * Em qual ano amédia de movimentação foi maior que zero?
