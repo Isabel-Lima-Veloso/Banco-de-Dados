@@ -90,7 +90,7 @@ https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?r
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Venda de Sorvete por Temperatura.xlsx](https://github.com/user-attachments/files/27782005/Venda.de.Sorvete.por.Temperatura.xlsx)
 
-Ice_Cream_e_Temp.ipynb
+[Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Ice_Cream_e_Temp.ipynb)
 
 # Power BI !!
 
