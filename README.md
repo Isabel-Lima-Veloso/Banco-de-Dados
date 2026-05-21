@@ -128,23 +128,26 @@ Com base na imagem anexada abaixo, olhando para o gráfico de "média de movimen
 # Códigos 💻
 
 ### 📅 14/05/2026 - Gráfico de regressão linear 
-Ao utilizar o site : [Kaggle](https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download) , primeiramente baixamos os arquivos escolhidos e fizemos o tratamento deles, ao transformar o texto em colunas e formatar em tabela, para depois fazer um grafico de dispersao com a linha linear.
+Ao utilizar o site : [Kaggle](https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download) , primeiramente baixamos os arquivos escolhidos e fizemos o tratamento deles por excel, ao transformar o texto em colunas e formatar em tabela, para depois fazer um gráfico de dispersão com a linha linear.
 
 <img width="700" height="260" alt="image" src="https://github.com/user-attachments/assets/412fb3fb-93b0-4521-8b1b-b163537b1911" />
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Venda de Sorvete por Temperatura.xlsx](https://github.com/user-attachments/files/27782005/Venda.de.Sorvete.por.Temperatura.xlsx)
 
 ### 📅 14/05/2026 - Gráfico de regressão linear por codigo
+Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo disponivel pelo proprio;[Kaggle](https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download) , entramos no Google Colab utilizando a linguagem de programação python, para formatar uma tabela e o gráfico de dispersão com a linha linear.
 
 <img width="722" height="767" alt="image" src="https://github.com/user-attachments/assets/2177eb15-7b99-49a2-8b9d-78a792701148" />
 
 [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Ice_Cream_e_Temp.ipynb)
 
-Site usado para isso : [Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo)
+Ao utilizar o site novamente : [Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo), primeiramente baixamos os arquivos escolhidos e fizemos o tratamento deles por excel, ao transformar o texto em colunas e formatar em tabela, para depois fazer um gráfico de dispersão com a linha linear.
+
+<img width="722" height="727" alt="image" src="https://github.com/user-attachments/assets/a28b1d1b-08b2-4a3c-a347-e969f99d140e" />
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Consumo_cerveja_Media.xlsx](https://github.com/user-attachments/files/27838899/Consumo_cerveja.Media.xlsx)
 
-<img width="1189" height="417" alt="image" src="https://github.com/user-attachments/assets/a28b1d1b-08b2-4a3c-a347-e969f99d140e" />
+Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo disponivel pelo proprio;[Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo) , entramos no Google Colab utilizando a linguagem de programação python, para formatar uma tabela e o gráfico de dispersão com a linha linear.
 
 [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Untitled0.ipynb)
 
