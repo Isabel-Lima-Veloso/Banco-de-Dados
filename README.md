@@ -139,17 +139,17 @@ Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo dis
 
 <img width="722" height="767" alt="image" src="https://github.com/user-attachments/assets/2177eb15-7b99-49a2-8b9d-78a792701148" />
 
-[Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Ice_Cream_e_Temp.ipynb)
+📊 Compartilhamento do codigo: [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Ice_Cream_e_Temp.ipynb)
 
 Ao utilizar o site novamente : [Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo), primeiramente baixamos os arquivos escolhidos e fizemos o tratamento deles por excel, ao transformar o texto em colunas e formatar em tabela, para depois fazer um gráfico de dispersão com a linha linear.
 
-<img width="722" height="727" alt="image" src="https://github.com/user-attachments/assets/a28b1d1b-08b2-4a3c-a347-e969f99d140e" />
+<img width="722" height="267" alt="image" src="https://github.com/user-attachments/assets/a28b1d1b-08b2-4a3c-a347-e969f99d140e" />
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Consumo_cerveja_Media.xlsx](https://github.com/user-attachments/files/27838899/Consumo_cerveja.Media.xlsx)
 
 Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo disponivel pelo proprio;[Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo) , entramos no Google Colab utilizando a linguagem de programação python, para formatar uma tabela e o gráfico de dispersão com a linha linear.
 
-[Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Untitled0.ipynb)
+📊 Compartilhamento do codigo: [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Untitled0.ipynb)
 
 <img width="613" height="811" alt="image" src="https://github.com/user-attachments/assets/339becda-7fa5-4442-9630-d1cb77e4d56a" />
 
