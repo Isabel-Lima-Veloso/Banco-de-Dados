@@ -141,7 +141,7 @@ Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo dis
 
 📊 Compartilhamento do codigo: [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Ice_Cream_e_Temp.ipynb)
 
-Ao utilizar o site novamente : [Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo), primeiramente baixamos os arquivos escolhidos e fizemos o tratamento deles por excel, ao transformar o texto em colunas e formatar em tabela, para depois fazer um gráfico de dispersão com a linha linear.
+📌 Ao utilizar o site novamente : [Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo), primeiramente baixamos os arquivos escolhidos e fizemos o tratamento deles por excel, ao transformar o texto em colunas e formatar em tabela, para depois fazer um gráfico de dispersão com a linha linear.
 
 <img width="722" height="267" alt="image" src="https://github.com/user-attachments/assets/a28b1d1b-08b2-4a3c-a347-e969f99d140e" />
 
