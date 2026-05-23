@@ -164,3 +164,9 @@ Com a necessidade rápida de desenvolver habilidade no Power BI, foi declarada a
 🧷 PDF oficial do certificado : [Certificate_AnálisePowerBI.pdf](https://github.com/user-attachments/files/27035790/Certificate_AnalisePowerBI.pdf)
 
 <img width="450" height="250" alt="Certificate_AnálisePowerBI pdf - Pessoal — Microsoft​ Edge 2aqwwsdfghjnmkl" src="https://github.com/user-attachments/assets/aa223ac0-35ea-4f90-a93f-fa343b0b8704" />
+
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[Teoricamente tratado.zip](https://github.com/user-attachments/files/28167104/Teoricamente.tratado.zip)
+
