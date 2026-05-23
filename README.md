@@ -31,10 +31,12 @@ Apresentação para a cliente Latifa, com esboços do Vestido, da Duppata e os A
 
 ##### Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content=DAHCkH1Leh4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-# Tabela e Gráfico📄
-Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos expandindo a práticidade dentro do Excel.
+# Banco De Dados📄
+Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos.
+[Teoricamente tratado.zip](https://github.com/user-attachments/files/28170920/Teoricamente.tratado.zip)
+[Teoricamente tratado.zip](https://github.com/user-attachments/files/28170917/Teoricamente.tratado.zip)
+[Teoricamente tratado.zip](https://github.com/user-attachments/files/28170914/Teoricamente.tratado.zip)
 
-### Desenvolvimento de habilidades técnicas
 ### 📅 03/03/2026 E 06/03/2026 Gráficos e Excel em desenvolvimento
 📌 Durante a aula, trabalhamos na interação com o Excel, com base de dados originários da transparência de dados públicos no site da Prefeitura de São José dos Campos, pesquisa direcionada a Receita da cidade.
 📌 Conjunto aprendendo PROCV, e às 31 dicas de visualização de dados 
@@ -46,7 +48,7 @@ Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados,
 
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1siOUoDUvAya1caZrvwRfbMEi-hpSM6P1zvMnBBdPdaQ/edit?usp=sharing
 
-### 📅 12/032026 E 13/03/2026 Gráficos melhores e dinâmicos 
+### 📅 12/03/2026 E 13/03/2026 Gráficos melhores e dinâmicos 
 📌 Ainda na pesquisar sobre dados publicos da Prefeitura da cidade, com foco em despesas de São José dos Campos.
 Primeiro na área resignada como Despesas por Função, fizemos as tabelas sobre secretaria, e fizemos gráfico para visualização rápida de dados, assim praticando CONT.ME e SOMASE.
 
@@ -84,9 +86,7 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1wmOcgaUnHccIKPACw2XzIpIllu_bqNs_Xy8y1CAFyYc/edit?usp=sharing
 
-# Power BI !!
-
-### 📅 23/04/2026 Primeira interação 
+### 📅 23/04/2026 Primeira interação PowerBI
 📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São José dos Campos, coletamos os dados de despesa por fusão dos meses passados (Janeiro,Fevereiro,Março) e interagimos com o Power BI Desktop, fizemos nossa primeira tabela e um segmento de dados para esse segmento.
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Despesa.zip](https://github.com/user-attachments/files/27070873/Despesa.zip)
@@ -100,14 +100,14 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [MatriculaBonito.zip](https://github.com/user-attachments/files/27071352/MatriculaBonito.zip)
 
-### 📅 30/04/2026 
+### 📅 30/04/2026 Visualização 
 📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Cultura, interagimos com o Power BI Desktop, fizemos uma página com três tipos de visualização, e com o segmento de dados sendo os tipos de vinculos disponíveis.
 
 <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/01fea372-23b1-4385-b700-0097314d69e6" />
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Cultura 2025.zip](https://github.com/user-attachments/files/27544259/Cultura.2025.zip)
 
-### 📅 08/05/2026    
+### 📅 08/05/2026  Mapa correto
 📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Trabalho, especialmente em Empregos formais, interagindo com o Power BI Desktop, fizemos uma conexão entre tabelas e utilizamos o DAX, a linguagem para códigos do Power BI, ao utilizar o CONCATENATE, e também aprendemos a visualizar um mapa, a linguagem para códigos do Power BI.
 Após a construção do arquivo, utilizamos os dados para responder duas perguntas:
 
@@ -125,8 +125,6 @@ Com base na imagem anexada abaixo, olhando para o gráfico de "média de movimen
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [EmpregoFormal.zip](https://github.com/user-attachments/files/27544090/EmpregoFormal.zip)
 
-# Códigos 💻
-
 ### 📅 14/05/2026 - Gráfico de regressão linear 
 Ao utilizar o site : [Kaggle](https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download) , primeiramente baixamos os arquivos escolhidos e fizemos o tratamento deles por excel, ao transformar o texto em colunas e formatar em tabela, para depois fazer um gráfico de dispersão com a linha linear.
 
@@ -134,7 +132,7 @@ Ao utilizar o site : [Kaggle](https://www.kaggle.com/datasets/raphaelmanayon/tem
 
 📊 Arquivo do próprio excel, sobre esse desenvolvimento : [Venda de Sorvete por Temperatura.xlsx](https://github.com/user-attachments/files/27782005/Venda.de.Sorvete.por.Temperatura.xlsx)
 
-### 📅 14/05/2026 - Gráfico de regressão linear por codigo
+### 📅 15/05/2026 - Gráfico de regressão linear por codigo
 Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo disponivel pelo proprio;[Kaggle](https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales?resource=download) , entramos no Google Colab utilizando a linguagem de programação python, para formatar uma tabela e o gráfico de dispersão com a linha linear.
 
 <img width="722" height="767" alt="image" src="https://github.com/user-attachments/assets/2177eb15-7b99-49a2-8b9d-78a792701148" />
@@ -153,6 +151,9 @@ Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo dis
 
 <img width="613" height="811" alt="image" src="https://github.com/user-attachments/assets/339becda-7fa5-4442-9630-d1cb77e4d56a" />
 
+### 📅 25/05/2026    
+📌 Ao utilizar o site : [Kaggle](https://www.kaggle.com/)
+
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
 Escolhi o tema recomendado, sendo "Ferramentas em Trabalhos Acadêmicos" também por interesse e afinidade.
@@ -164,9 +165,3 @@ Com a necessidade rápida de desenvolver habilidade no Power BI, foi declarada a
 🧷 PDF oficial do certificado : [Certificate_AnálisePowerBI.pdf](https://github.com/user-attachments/files/27035790/Certificate_AnalisePowerBI.pdf)
 
 <img width="450" height="250" alt="Certificate_AnálisePowerBI pdf - Pessoal — Microsoft​ Edge 2aqwwsdfghjnmkl" src="https://github.com/user-attachments/assets/aa223ac0-35ea-4f90-a93f-fa343b0b8704" />
-
-
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-[Teoricamente tratado.zip](https://github.com/user-attachments/files/28167104/Teoricamente.tratado.zip)
-
