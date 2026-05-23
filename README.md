@@ -147,12 +147,16 @@ Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo dis
 
 Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo disponivel pelo proprio;[Kaggle](https://www.kaggle.com/datasets/dongeorge/beer-consumption-sao-paulo) , entramos no Google Colab utilizando a linguagem de programação python, para formatar uma tabela e o gráfico de dispersão com a linha linear.
 
-📊 Compartilhamento do codigo: [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Untitled0.ipynb)
-
 <img width="613" height="811" alt="image" src="https://github.com/user-attachments/assets/339becda-7fa5-4442-9630-d1cb77e4d56a" />
 
+📊 Compartilhamento do codigo: [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Untitled0.ipynb)
+
 ### 📅 25/05/2026    
-📌 Ao utilizar o site : [Kaggle](https://www.kaggle.com/)
+📌 Ao utilizar o site : [Kaggle](https://www.kaggle.com/) , coletamos os dados de cerveja mais consumida por categoria de temertatura, e também os dados de sorvete mais consumida por categoria de temertatura. Fizemos o tratmento de dados completo com direito a: =ARRED. E então fizemos um Dashboard interativo no Power BI Descktop, com esses dados tratados.
+
+<img width="840" height="455" alt="Power BI Desktop 23_05_2026 01_51_04" src="https://github.com/user-attachments/assets/836fbc0b-fb9e-41bd-ade0-f451868accae" />
+
+📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento :[Temperatura - cerveja e sorvete.zip](https://github.com/user-attachments/files/28171017/Temperatura.-.cerveja.e.sorvete.zip)
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
