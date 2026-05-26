@@ -154,9 +154,9 @@ Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo dis
 ### 📅 25/05/2026    
 📌 Ao utilizar o site : [Kaggle](https://www.kaggle.com/) , coletamos os dados de cerveja mais consumida por categoria de temertatura, e também os dados de sorvete mais consumida por categoria de temertatura. Fizemos o tratmento de dados completo com direito a: =ARRED. E então fizemos um Dashboard interativo no Power BI Descktop, com esses dados tratados.
 
-<img width="840" height="455" alt="Power BI Desktop 23_05_2026 01_51_04" src="https://github.com/user-attachments/assets/836fbc0b-fb9e-41bd-ade0-f451868accae" />
+<img width="840" height="455" alt="image" src="https://github.com/user-attachments/assets/2b589995-f4cd-4b7a-9a59-f9b1b8fbf2c2" />
 
-📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento :[Temperatura - cerveja e sorvete.zip](https://github.com/user-attachments/files/28171017/Temperatura.-.cerveja.e.sorvete.zip)
+📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Temperatura.zip](https://github.com/user-attachments/files/28242246/Temperatura.zip)
 
 ## 🧾Certificado referendes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
