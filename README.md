@@ -4,6 +4,13 @@ Aqui estarão registros da disciplina Fontes de Informação e Banco de Dados, m
 
 Lecionada pela professora Adriana da Silva Jacinto.
 
+#P1
+
+
+https://github.com/user-attachments/assets/c3909e9b-fc64-452e-87f8-4a6d83ec58bc
+
+[Investimentos.zip](https://github.com/user-attachments/files/28413875/Investimentos.zip)
+
 # Apresentações
 Aqui evoluímos habilidades táticas de exibição de produtos e algumas vezes até nos mesmos.
 
