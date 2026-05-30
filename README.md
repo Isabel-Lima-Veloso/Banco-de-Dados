@@ -1,6 +1,3 @@
-[Investimentos sp.zip](https://github.com/user-attachments/files/28413998/Investimentos.sp.zip)
-[Investimentos sp.zip](https://github.com/user-attachments/files/28413992/Investimentos.sp.zip)
-
 # Banco de Dados
 Aqui estarão registros da disciplina Fontes de Informação e Banco de Dados, ministrada no primeiro semestre de Gestão de Produção industrial (GPI)
 
@@ -13,9 +10,11 @@ Construa um relatório (dashboard) que contenha, no mínimo, três visualizaçõ
 - visualização de sua livre escolha 
 
 https://github.com/user-attachments/assets/c3909e9b-fc64-452e-87f8-4a6d83ec58bc
-📷 Arquivo do video caso de erro: [Gravando.zip](https://github.com/user-attachments/files/28414011/Gravando.zip)
 
-📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Investimentos.zip](https://github.com/user-attachments/files/28413875/Investimentos.zip)
+📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento, incluindo o video : [Investimentos.zip](https://github.com/user-attachments/files/28413875/Investimentos.zip)
+
+
+[Investimentos sp.zip](https://github.com/user-attachments/files/28413998/Investimentos.sp.zip)
 
 # Apresentações
 Aqui evoluímos habilidades táticas de exibição de produtos e algumas vezes até nos mesmos.
