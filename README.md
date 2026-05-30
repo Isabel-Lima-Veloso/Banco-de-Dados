@@ -8,11 +8,10 @@ Construa um relatório (dashboard) que contenha, no mínimo, três visualizaçõ
 - mapa geográfico mostrando onde há o maior número de investimentos
 - visualização relacionando município com  setor econômico envolvido
 - visualização de sua livre escolha 
-
-https://github.com/user-attachments/assets/c3909e9b-fc64-452e-87f8-4a6d83ec58bc
-
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento, incluindo o video :
 [Investimentos sp.zip](https://github.com/user-attachments/files/28413998/Investimentos.sp.zip)
+
+https://github.com/user-attachments/assets/c3909e9b-fc64-452e-87f8-4a6d83ec58bc
 
 # Apresentações
 Aqui evoluímos habilidades táticas de exibição de produtos e algumas vezes até nos mesmos.
