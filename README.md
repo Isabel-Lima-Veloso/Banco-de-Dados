@@ -3,7 +3,7 @@ Aqui estarão registros da disciplina Fontes de Informação e Banco de Dados, m
 
 Lecionada pela professora Adriana da Silva Jacinto.
 
-# P1
+# P1 - Dashboard
 Construa um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
 - mapa geográfico mostrando onde há o maior número de investimentos
 - visualização relacionando município com  setor econômico envolvido
