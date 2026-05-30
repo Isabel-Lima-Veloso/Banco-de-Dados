@@ -7,7 +7,8 @@ Lecionada pela professora Adriana da Silva Jacinto.
 Construa um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
 - mapa geográfico mostrando onde há o maior número de investimentos
 - visualização relacionando município com  setor econômico envolvido
-- visualização de sua livre escolha 
+- visualização de sua livre escolha
+
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento, incluindo o video :
 [Investimentos sp.zip](https://github.com/user-attachments/files/28413998/Investimentos.sp.zip)
 
