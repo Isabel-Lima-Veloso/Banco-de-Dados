@@ -96,6 +96,8 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 ### 📅 23/04/2026 Primeira interação PowerBI
 📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São José dos Campos, coletamos os dados de despesa por fução dos meses passados (Janeiro,Fevereiro,Março) e interagimos com o Power BI Desktop, fizemos nossa primeira tabela e um segmento de dados para esse segmento.
 
+<img width="783" height="531" alt="image" src="https://github.com/user-attachments/assets/9bfe6666-f3c7-4dd6-9697-1acacbaa3b54" />
+
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Despesa.zip](https://github.com/user-attachments/files/27070873/Despesa.zip)
 
 ### 📅 24/04/2026 Fortalecendo conhecimento
