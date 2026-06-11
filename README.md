@@ -1,7 +1,7 @@
 # Banco de Dados
-Aqui estarão registros da disciplina Fontes de Informação e Banco de Dados, ministrada no primeiro semestre de Gestão de Produção industrial (GPI)
+Este espaço reúne os projetos práticos e relatórios desenvolvidos durante a disciplina de Fontes de Informação e Banco de Dados, ministrada pela professora Adriana da Silva Jacinto no 1º semestre de Gestão de Produção Industrial (GPI).
 
-Lecionada pela professora Adriana da Silva Jacinto.
+O objetivo deste registro é consolidar o aprendizado em coleta, tratamento, análise e visualização de dados públicos, utilizando ferramentas de mercado como Excel, Power BI e Python.
 
 # P1 - Dashboard
 Construa um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
@@ -43,7 +43,6 @@ Apresentação para a cliente Latifa, com esboços do Vestido, da Dupatta e os A
 
 # Banco De Dados📄
 Nessa categoria nós elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos.
-[Teoricamente tratado.zip](https://github.com/user-attachments/files/28170914/Teoricamente.tratado.zip)
 
 ### 📅 03/03/2026 E 06/03/2026 Gráficos e Excel em desenvolvimento
 📌 Durante a aula, trabalhamos na interação com o Excel, com base de dados originários da transparência de dados públicos no site da Prefeitura de São José dos Campos, pesquisa direcionada a Receita da cidade.
@@ -95,7 +94,7 @@ Logo em seguida desenvolvemos na área de Despesas por Fornecedores, uma tabela 
 ###### Para acesso online sem necessidade de baixar : https://docs.google.com/spreadsheets/d/1wmOcgaUnHccIKPACw2XzIpIllu_bqNs_Xy8y1CAFyYc/edit?usp=sharing
 
 ### 📅 23/04/2026 Primeira interação PowerBI
-📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São José dos Campos, coletamos os dados de despesa por fusão dos meses passados (Janeiro,Fevereiro,Março) e interagimos com o Power BI Desktop, fizemos nossa primeira tabela e um segmento de dados para esse segmento.
+📌 Voltando a utilizar os dados públicos da transparência da Prefeitura de São José dos Campos, coletamos os dados de despesa por fução dos meses passados (Janeiro,Fevereiro,Março) e interagimos com o Power BI Desktop, fizemos nossa primeira tabela e um segmento de dados para esse segmento.
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Despesa.zip](https://github.com/user-attachments/files/27070873/Despesa.zip)
 
@@ -160,13 +159,13 @@ Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo dis
 📊 Compartilhamento do codigo: [Colab No Github](https://github.com/Isabel-Lima-Veloso/Banco-de-Dados/blob/main/Untitled0.ipynb)
 
 ### 📅 25/05/2026    
-📌 Ao utilizar o site : [Kaggle](https://www.kaggle.com/) , coletamos os dados de cerveja mais consumida por categoria de temertatura, e também os dados de sorvete mais consumida por categoria de temertatura. Fizemos o tratmento de dados completo com direito a: =ARRED. E então fizemos um Dashboard interativo no Power BI Descktop, com esses dados tratados.
+📌 Ao utilizar o site : [Kaggle](https://www.kaggle.com/) , coletamos os dados de cerveja mais consumida por categoria de temperatura, e também os dados de sorvete mais consumida por categoria de temturaperatura. Fizemos o tratamento de dados completo com direito a: =ARRED. E então fizemos um Dashboard interativo no Power BI Dessktop, com esses dados tratados.
 
 <img width="840" height="455" alt="image" src="https://github.com/user-attachments/assets/2b589995-f4cd-4b7a-9a59-f9b1b8fbf2c2" />
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Temperatura.zip](https://github.com/user-attachments/files/28242246/Temperatura.zip)
 
-## 🧾Certificado referendes a matéria :
+## 🧾Certificado referentes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
 Escolhi o tema recomendado, sendo "Ferramentas em Trabalhos Acadêmicos" também por interesse e afinidade.
 🧷 PDF oficial do certificado : [Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf](https://github.com/user-attachments/files/26632932/Certificado.Criando_Trabalhos_Academicos_com_Ferramentas.pdf)
