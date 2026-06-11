@@ -3,17 +3,6 @@ Este espaço reúne os projetos práticos e relatórios desenvolvidos durante a 
 
 O objetivo deste registro é consolidar o aprendizado em coleta, tratamento, análise e visualização de dados públicos, utilizando ferramentas de mercado como Excel, Power BI e Python.
 
-# P1 - Dashboard
-Construa um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
-- mapa geográfico mostrando onde há o maior número de investimentos
-- visualização relacionando município com  setor econômico envolvido
-- visualização de sua livre escolha
-
-📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento, incluindo o vídeo :
-[Investimentos sp.zip](https://github.com/user-attachments/files/28413998/Investimentos.sp.zip)
-
-https://github.com/user-attachments/assets/c3909e9b-fc64-452e-87f8-4a6d83ec58bc
-
 # Apresentações
 Aqui evoluímos habilidades táticas de exibição de produtos e algumas vezes até nos mesmos.
 
@@ -167,6 +156,16 @@ Com o comparativo do Excel. Nos fizemos o mesmo processo utilizando o codigo dis
 
 📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento : [Temperatura.zip](https://github.com/user-attachments/files/28242246/Temperatura.zip)
 
+# P1 - Dashboard
+Construa um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
+- mapa geográfico mostrando onde há o maior número de investimentos
+- visualização relacionando município com  setor econômico envolvido
+- visualização de sua livre escolha
+
+📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento, incluindo o vídeo :
+[Investimentos sp.zip](https://github.com/user-attachments/files/28413998/Investimentos.sp.zip)
+
+https://github.com/user-attachments/assets/c3909e9b-fc64-452e-87f8-4a6d83ec58bc
 ## 🧾Certificado referentes a matéria :
 Com os infelizes feriados que rondam as quintas e sextas durante o final de Março e começo Abril, fizemos cursos no Aprenda Mais (site governamental de São Paulo).
 Escolhi o tema recomendado, sendo "Ferramentas em Trabalhos Acadêmicos" também por interesse e afinidade.
