@@ -9,7 +9,7 @@ Construa um relatório (dashboard) que contenha, no mínimo, três visualizaçõ
 - visualização relacionando município com  setor econômico envolvido
 - visualização de sua livre escolha
 
-📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento, incluindo o video :
+📊 Arquivo do próprio PowerBI-compactado para ZIP, sobre esse desenvolvimento, incluindo o vídeo :
 [Investimentos sp.zip](https://github.com/user-attachments/files/28413998/Investimentos.sp.zip)
 
 https://github.com/user-attachments/assets/c3909e9b-fc64-452e-87f8-4a6d83ec58bc
@@ -20,31 +20,29 @@ Aqui evoluímos habilidades táticas de exibição de produtos e algumas vezes a
 ### 📅 21/02/2026 Apresentação informal em equipe, utilizando software gráfico "Canva"
 📌 Primeira apresentação feita no curso de GPI, para identificação de personas na turma.
 
-Relatamos nos slides, nossos animais de estimação, nossos hobbies e de forma descontraída (com interação com a turna, de votação) qual nossos tipos preferidos de batatas.
+Relatamos nos slides, nossos animais de estimação, nossos hobbies e de forma descontraída (com interação com a turma, de votação) qual nossos tipos preferidos de batatas.
 
 Nessa dinâmica, a batata frita (🍟) ganhou.
 
 <img width="487" height="287" alt="como tirar print no computador - Pesquisar e mais 1 página - Pessoal — Microsoft​ Edge 27_02_2026 01_26_21" src="https://github.com/user-attachments/assets/0a887b1c-2053-4518-a1a7-63d79158facb" />
 
-Eu tenho alergia a pelos, por isso o pet virtual.
+Eu tenho alergia a pêlos, por isso o pet virtual.
 
 ##### Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHBP-fUMyQ/SM1Yawj3KUxTubeXUEj00A/edit?utm_content=DAHBP-fUMyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### 📅 03/03/2026 Projeto de Vestido de Noiva Hindu 💃🏽
-📌 Feito em equipe, com divisões de tarefas, eu foi a desenvolvedora dos slides (organizando de maneira com ornamentos que combinavam com o tema) e colaborei na pesquisa de tecido específicos.
+📌 Feito em equipe, com divisões de tarefas, eu fui a desenvolvedora dos slides (organizando de maneira com ornamentos que combinavam com o tema) e colaborei na pesquisa de tecido específicos.
 
 Contexto e detalhes da cliente e seu pedido, em Relatório :  [Projeto de API rapida_ Entrega de vestido de casamento.docx](https://github.com/user-attachments/files/25810253/Projeto.de.API.rapida_.Entrega.de.vestido.de.casamento.docx)
 
-Apresentação para a cliente Latifa, com esboços do Vestido, da Duppata e os Acessórios, especificações de tecidos e joias.
+Apresentação para a cliente Latifa, com esboços do Vestido, da Dupatta e os Acessórios, especificações de tecidos e jóias.
 
 <img width="1243" height="699" alt="Projeto 2- 06_03_2026 -Apresentação Fatec - Grupo 5 - Apresentação - Google Chrome 07_03_2026 01_07_31" src="https://github.com/user-attachments/assets/309ac660-1ff7-40ea-b223-d0edf374d4fc" />
 
 ##### Compartilhamento dos slides, sobre esse desenvolvimento : https://www.canva.com/design/DAHCkH1Leh4/HVIJqTf0JJixo0cRFp8ZxQ/edit?utm_content=DAHCkH1Leh4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Banco De Dados📄
-Nessa categoria nos elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos.
-[Teoricamente tratado.zip](https://github.com/user-attachments/files/28170920/Teoricamente.tratado.zip)
-[Teoricamente tratado.zip](https://github.com/user-attachments/files/28170917/Teoricamente.tratado.zip)
+Nessa categoria nós elaboramos arquivos baseados em pesquisa em bancos de dados, incluindo tabelas, gráficos e comandos.
 [Teoricamente tratado.zip](https://github.com/user-attachments/files/28170914/Teoricamente.tratado.zip)
 
 ### 📅 03/03/2026 E 06/03/2026 Gráficos e Excel em desenvolvimento
